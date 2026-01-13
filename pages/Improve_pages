@@ -1,0 +1,14 @@
+---
+
+layout: nav-Bar
+title: "Improve_pages"
+author: "Ravi Patel"
+contributors: ["Additional Contributor Names", "If Any"]
+permalink: /MyPageTitle
+tags: ["attack", "XSS"]
+
+---
+
+{% include writers.html %}
+
+Write your content here!
